@@ -1,6 +1,6 @@
 // array exercises 01 creating an array
 
-let flavors = ["vanilla", "butterscotch", "lavander", "chocolate", "cookie dough"]
+let flavors = ["vanilla", "butterscotch", "lavender", "chocolate", "cookie dough"]
 
 // accessing a item inside an array
 
